@@ -2,7 +2,6 @@
 
 <p align="center"><i>I debug with coffee and defend with code.</i> ☕</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-saksham-hash" alt="trophy" /></a> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -22,7 +21,6 @@
 <img src="https://camo.githubusercontent.com/9adcdacd94559bf35f41a74784c605b4827b4c71dd23f9f8bfa77b850d81fa54/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f7075626c69632d73706f6e736f722d64656661756c742e706e67" width="56" height="56" alt="public sponsor"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saksham-hash&show_icons=true&locale=en" alt="stats" /></p>
 
 <p align="center">Daily driver: <b>Arch Linux</b> — not the flex, just tired of fighting an OS that fights back.<br>
 Fuel of choice: <i>Dopio</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> on workdays, <i>Cortado</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> when the week isn't trying to kill me.</p>
