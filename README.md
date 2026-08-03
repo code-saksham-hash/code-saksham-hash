@@ -1,4 +1,4 @@
-<h2 align="center">𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 𝙗𝙮 𝙙𝙖𝙮, 𝙘𝙮𝙗𝙚𝙧 𝙬𝙖𝙧𝙧𝙞𝙤𝙧 𝙗𝙮 𝙤𝙗𝙨𝙚𝙨𝙨𝙞𝙤𝙣<br>𝙗𝙧𝙚𝙖𝙠𝙞𝙣𝙜 𝙖𝙣𝙙 𝙙𝙚𝙛𝙚𝙣𝙙𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙤𝙣 𝙧𝙚𝙥𝙚𝙖𝙩.</h2>
+<h2 align="center">𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 𝙗𝙮 𝙙𝙖𝙮, 𝙘𝙮𝙗𝙚𝙧 𝙬𝙖𝙧𝙧𝙞𝙤𝙧 𝙗𝙮 𝙤𝙗𝙨𝙚𝙨𝙨𝙞𝙤𝙣<br>𝙗𝙧𝙚𝙖𝙠𝙞𝙣𝙜 𝙖𝙣𝙙 𝙙𝙚𝙛𝙚𝙣𝙙𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙤𝙣 𝙧𝙚𝙥𝙚𝙖𝙩.<br>𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙨𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙢𝙖𝙘𝙝𝙞𝙣𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙧𝙖𝙗𝙗𝙞𝙩 𝙝𝙤𝙡𝙚.</h2>
 
 <p align="center"><i>I debug with coffee and defend with code.</i> ☕</p>
 
@@ -16,10 +16,10 @@
 
 <h3 align="left">Achievements</h3>
 <p align="left">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="56" height="56" alt="pair extraordinaire"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="56" height="56" alt="yolo"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="56" height="56" alt="pull shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="56" height="56" alt="public sponsor"/>
+<img src="https://camo.githubusercontent.com/36913a049834dc58f23329a8ef744a99a0131c5632b4d4d04dbb4e2dbd54e778/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f706169722d65787472616f7264696e616972652d64656661756c742e706e67" width="56" height="56" alt="pair extraordinaire"/>
+<img src="https://camo.githubusercontent.com/6bc642fdce8b38304664d7e656f6bc4c63d6ded62b05d357d61957a556536eed/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f796f6c6f2d64656661756c742e706e67" width="56" height="56" alt="yolo"/>
+<img src="https://camo.githubusercontent.com/ceb1c697a50c241ead6d6db95783cd39acbca4f11e030666247d1707607fe8b8/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f70756c6c2d736861726b2d62726f6e7a652e706e67" width="56" height="56" alt="pull shark"/>
+<img src="https://camo.githubusercontent.com/9adcdacd94559bf35f41a74784c605b4827b4c71dd23f9f8bfa77b850d81fa54/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f7075626c69632d73706f6e736f722d64656661756c742e706e67" width="56" height="56" alt="public sponsor"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saksham-hash&show_icons=true&locale=en" alt="stats" /></p>
@@ -27,5 +27,5 @@
 <p align="center">Daily driver: <b>Arch Linux</b> — not the flex, just tired of fighting an OS that fights back.<br>
 Fuel of choice: <i>Dopio</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> on workdays, <i>Cortado</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> when the week isn't trying to kill me.</p>
 
-<p align="center">🔒 This account holds <b>personal & experimental projects only</b> — freelance and client work lives elsewhere.<br>
+<p align="center">🔒 <i>This account holds <b>personal & experimental projects only</b> — freelance and client work lives elsewhere.</i><br>
 Portfolio → <a href="https://sakshambanjade.com"><b>sakshambanjade.com</b></a></p>
