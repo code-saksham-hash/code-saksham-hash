@@ -25,5 +25,5 @@
 <p align="center">Daily driver: <b>Arch Linux</b> — not the flex, just tired of fighting an OS that fights back.<br>
 Fuel of choice: <i>Dopio</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> on workdays, <i>Cortado</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> when the week isn't trying to kill me.</p>
 
-<p align="center">🔒 <i>This account holds <b>personal & experimental projects only</b> — freelance and client work lives elsewhere.</i><br>
+<p align="center"><i>This account holds <b>personal & experimental projects only</b> freelance and client work lives elsewhere.</i><br>
 Portfolio → <a href="https://sakshambanjade.com"><b>sakshambanjade.com</b></a></p>
