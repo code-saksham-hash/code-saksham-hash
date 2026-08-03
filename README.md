@@ -1,4 +1,4 @@
-<h2 align="center">Building. Breaking. Learning.</h2>
+<h2 align="center">Human curiosity running on caffeine, code, and computational chaos.</h2>
 
 <p align="center"><i>I debug with coffee and defend with code.</i> ☕</p>
 
