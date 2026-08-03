@@ -1,12 +1,8 @@
-<p align="center">
-<img src="https://github.com/code-saksham-hash.png" width="120" height="120" style="border-radius:50%;" alt="code-saksham-hash"/>
-</p>
-
 <h2 align="center">𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 𝙗𝙮 𝙙𝙖𝙮, 𝙘𝙮𝙗𝙚𝙧 𝙬𝙖𝙧𝙧𝙞𝙤𝙧 𝙗𝙮 𝙤𝙗𝙨𝙚𝙨𝙨𝙞𝙤𝙣<br>𝙗𝙧𝙚𝙖𝙠𝙞𝙣𝙜 𝙖𝙣𝙙 𝙙𝙚𝙛𝙚𝙣𝙙𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙤𝙣 𝙧𝙚𝙥𝙚𝙖𝙩.</h2>
 
 <p align="center"><i>I debug with coffee and defend with code.</i> ☕</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-saksham-hash" alt="code-saksham-hash" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-saksham-hash" alt="trophy" /></a> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -14,11 +10,19 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,rust,bash,lua,react,nextjs,django,nodejs,git,linux,neovim" alt="skills" />
 </a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-1793D1?style=flat&logo=archlinux&logoColor=white" alt="arch linux" height="48"/>
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="arch linux" width="48" height="48"/>
 </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saksham-hash&show_icons=true&locale=en" alt="code-saksham-hash" /></p>
+<h3 align="left">Achievements</h3>
+<p align="left">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="56" height="56" alt="pair extraordinaire"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="56" height="56" alt="yolo"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="56" height="56" alt="pull shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="56" height="56" alt="public sponsor"/>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saksham-hash&show_icons=true&locale=en" alt="stats" /></p>
 
 <p align="center">Daily driver: <b>Arch Linux</b> — not the flex, just tired of fighting an OS that fights back.<br>
 Fuel of choice: <i>Dopio</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> on workdays, <i>Cortado</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> when the week isn't trying to kill me.</p>
