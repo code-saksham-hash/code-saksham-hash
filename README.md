@@ -1,4 +1,4 @@
-<h2 align="center">𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 𝙗𝙮 𝙙𝙖𝙮, 𝙘𝙮𝙗𝙚𝙧 𝙬𝙖𝙧𝙧𝙞𝙤𝙧 𝙗𝙮 𝙤𝙗𝙨𝙚𝙨𝙨𝙞𝙤𝙣<br>𝙗𝙧𝙚𝙖𝙠𝙞𝙣𝙜 𝙖𝙣𝙙 𝙙𝙚𝙛𝙚𝙣𝙙𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙤𝙣 𝙧𝙚𝙥𝙚𝙖𝙩.<br>𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙨𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙢𝙖𝙘𝙝𝙞𝙣𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙧𝙖𝙗𝙗𝙞𝙩 𝙝𝙤𝙡𝙚.</h2>
+<h2 align="center">Building. Breaking. Learning.</h2>
 
 <p align="center"><i>I debug with coffee and defend with code.</i> ☕</p>
 
