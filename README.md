@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saksham-hash&show_icons=true&locale=en" alt="code-saksham-hash" /></p>
 
-<p align="center">Daily driver: <b>Arch Linux</b> — not the flex, just tired of fighting an OS that fights back.<br>
+<p align="center">Daily driver: <b>Arch Linux</b> not the flex, just tired of fighting an OS that fights back.<br>
 Fuel of choice: <i>Dopio</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> on workdays, <i>Cortado</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> when the week isn't trying to kill me.</p>
 
 <p align="center">🔒 This account holds <b>personal & experimental projects only</b> — freelance and client work lives elsewhere.<br>
