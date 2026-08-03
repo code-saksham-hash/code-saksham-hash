@@ -6,19 +6,22 @@
 
 <p align="center"><i>I debug with coffee and defend with code.</i> ☕</p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-saksham-hash" alt="code-saksham-hash" /></a> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,bash,lua,react,nextjs,django,nodejs,git,linux,archlinux,neovim" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,bash,lua,react,nextjs,django,nodejs,git,linux,neovim" alt="skills" />
+</a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-1793D1?style=flat&logo=archlinux&logoColor=white" alt="arch linux" height="48"/>
 </a>
 </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saksham-hash&show_icons=true&locale=en" alt="code-saksham-hash" /></p>
 
 <p align="center">Daily driver: <b>Arch Linux</b> — not the flex, just tired of fighting an OS that fights back.<br>
 Fuel of choice: <i>Dopio</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> on workdays, <i>Cortado</i> <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2615.png" width="16" height="16" alt="coffee"/> when the week isn't trying to kill me.</p>
 
-<p align="center" > <i> This account holds <b>personal & experimental projects only </i> </b> — freelance and client work lives elsewhere.<br>
+<p align="center">🔒 This account holds <b>personal & experimental projects only</b> — freelance and client work lives elsewhere.<br>
 Portfolio → <a href="https://sakshambanjade.com"><b>sakshambanjade.com</b></a></p>
