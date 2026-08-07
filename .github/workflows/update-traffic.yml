@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-traffic
+  cancel-in-progress: false
+
 jobs:
   update-traffic:
     runs-on: ubuntu-latest
@@ -33,7 +37,20 @@ jobs:
           git add README.md .github/traffic-data.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "chore: update traffic stats"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update traffic stats"
+
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt) — rebasing onto latest main and retrying."
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict — leaving it for manual resolution."
+              git rebase --abort
+              exit 1
+            fi
+          done
+          exit 1
