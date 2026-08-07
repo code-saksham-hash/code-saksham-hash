@@ -6,11 +6,19 @@
 <h3 align="center">Reach</h3>
 
 <p align="center">
-<b>51</b> unique visitors · <b>194</b> views · <b>104</b> unique cloners · <b>179</b> clones — across 5 public repos<br>
+<b>51</b> unique visitors · <b>194</b> views · <b>104</b> unique cloners · <b>179</b> clones across 5 public repos<br>
 <sub>Tracking since 2026-07-24 · last updated 2026-08-07</sub>
 </p>
 
-<p align="center"><b>🔥 Most visited:</b> <a href="https://github.com/code-saksham-hash/Resona"><b>Resona</b></a> — 40 unique visitors, 147 views</p>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github/assets/traffic-chart-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset=".github/assets/traffic-chart-light.svg">
+<img src=".github/assets/traffic-chart-light.svg" alt="Daily unique visitors chart" width="720">
+</picture>
+</p>
+
+<p align="center"><b>Most visited:</b> <a href="https://github.com/code-saksham-hash/Resona"><b>Resona</b></a> (40 unique visitors, 147 views)</p>
 
 <div align="center">
 
