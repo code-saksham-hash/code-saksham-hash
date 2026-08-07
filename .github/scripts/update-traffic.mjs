@@ -117,10 +117,10 @@ function renderReadme(data) {
   const fmt = (n) => n.toLocaleString("en-US");
 
   let section = `${START_MARKER}\n`;
-  section += `<h3 align="center">📊 Reach</h3>\n\n`;
+  section += `<h3 align="center">Reach</h3>\n\n`;
 
   if (summaries.length === 0) {
-    section += `<p align="center"><i>Tracking starts once the traffic workflow runs for the first time — check back soon!</i></p>\n\n`;
+    section += `<p align="center"><i>Tracking starts once the traffic workflow runs for the first time, check back soon!</i></p>\n\n`;
   } else {
     section += `<p align="center">\n`;
     section += `<b>${fmt(totals.uniqueViews)}</b> unique visitors · <b>${fmt(totals.views)}</b> views · <b>${fmt(totals.uniqueClones)}</b> unique cloners · <b>${fmt(totals.clones)}</b> clones — across ${summaries.length} public repos<br>\n`;
