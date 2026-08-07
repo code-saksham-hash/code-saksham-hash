@@ -103,7 +103,16 @@ function renderReadme(data) {
     .filter((s) => s.uniqueViews >= MIN_UNIQUE_VISITORS)
     .sort((a, b) => b.uniqueViews - a.uniqueViews);
 
-  const startDate = data.startedAt.slice(0, 10);
+  // Use the earliest date actually present in the data (GitHub backfills up to
+  // ~14 days on the very first call) rather than the date this script first
+  // ran, so the label doesn't understate how far back the numbers go.
+  let startDate = null;
+  for (const repoData of Object.values(data.repos)) {
+    for (const date of Object.keys(repoData.daily)) {
+      if (!startDate || date < startDate) startDate = date;
+    }
+  }
+  startDate = startDate || data.startedAt.slice(0, 10);
   const updatedDate = data.lastUpdated.slice(0, 10);
   const fmt = (n) => n.toLocaleString("en-US");
 
