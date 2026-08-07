@@ -3,9 +3,9 @@
 <p align="center">I debug with coffee and defend with code. ☕</p>
 
 <!-- TRAFFIC:START -->
-<h3 align="center">📊 Reach</h3>
+<h3 align="center">Reach</h3>
 
-<p align="center"><i>Tracking starts once the traffic workflow runs for the first time — check back soon!</i></p>
+<p align="center"><i>Tracking starts once the traffic workflow runs for the first time, check back soon!</i></p>
 <!-- TRAFFIC:END -->
 
 <h3 align="left">Languages and Tools</h3>
