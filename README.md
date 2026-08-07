@@ -5,7 +5,24 @@
 <!-- TRAFFIC:START -->
 <h3 align="center">Reach</h3>
 
-<p align="center"><i>Tracking starts once the traffic workflow runs for the first time, check back soon!</i></p>
+<p align="center">
+<b>51</b> unique visitors · <b>194</b> views · <b>104</b> unique cloners · <b>179</b> clones — across 5 public repos<br>
+<sub>Tracking since 2026-07-24 · last updated 2026-08-07</sub>
+</p>
+
+<p align="center"><b>🔥 Most visited:</b> <a href="https://github.com/code-saksham-hash/Resona"><b>Resona</b></a> — 40 unique visitors, 147 views</p>
+
+<div align="center">
+
+| Repo | Unique Visitors | Views | Unique Cloners | Clones |
+|---|---|---|---|---|
+| [Resona](https://github.com/code-saksham-hash/Resona) | 40 | 147 | 27 | 52 |
+| [IPOPilot](https://github.com/code-saksham-hash/IPOPilot) | 7 | 37 | 27 | 35 |
+
+</div>
+
+<p align="center"><sub>Repos need 5+ unique visitors to appear in the table above.</sub></p>
+
 <!-- TRAFFIC:END -->
 
 <h3 align="left">Languages and Tools</h3>
