@@ -1,14 +1,14 @@
-<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily unique visitors over the last 15 days">
+<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily unique visitors over the last 16 days">
 <style>text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }</style>
 <rect x="0" y="0" width="720" height="200" rx="10" fill="#fcfcfb"/>
 <text x="46" y="18" font-size="11" fill="#52514e">Unique visitors per day</text>
 <line x1="46" y1="53.7" x2="704" y2="53.7" stroke="#e1e0d9" stroke-width="1"/>
 <text x="38" y="57.7" text-anchor="end" font-size="10" fill="#898781">50</text>
 <line x1="46" y1="172.0" x2="704" y2="172.0" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M 46.0 172.0 L 93.0 172.0 L 140.0 172.0 L 187.0 167.3 L 234.0 167.3 L 281.0 169.6 L 328.0 169.6 L 375.0 172.0 L 422.0 172.0 L 469.0 172.0 L 516.0 172.0 L 563.0 164.9 L 610.0 122.3 L 657.0 122.3 L 704.0 172.0 L 704.0 172.0 L 46.0 172.0 Z" fill="#2a78d6" fill-opacity="0.1" stroke="none"/>
-<path d="M 46.0 172.0 L 93.0 172.0 L 140.0 172.0 L 187.0 167.3 L 234.0 167.3 L 281.0 169.6 L 328.0 169.6 L 375.0 172.0 L 422.0 172.0 L 469.0 172.0 L 516.0 172.0 L 563.0 164.9 L 610.0 122.3 L 657.0 122.3 L 704.0 172.0" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 46.0 172.0 L 89.9 172.0 L 133.7 172.0 L 177.6 167.3 L 221.5 167.3 L 265.3 169.6 L 309.2 169.6 L 353.1 172.0 L 396.9 172.0 L 440.8 172.0 L 484.7 172.0 L 528.5 164.9 L 572.4 122.3 L 616.3 122.3 L 660.1 172.0 L 704.0 172.0 L 704.0 172.0 L 46.0 172.0 Z" fill="#2a78d6" fill-opacity="0.1" stroke="none"/>
+<path d="M 46.0 172.0 L 89.9 172.0 L 133.7 172.0 L 177.6 167.3 L 221.5 167.3 L 265.3 169.6 L 309.2 169.6 L 353.1 172.0 L 396.9 172.0 L 440.8 172.0 L 484.7 172.0 L 528.5 164.9 L 572.4 122.3 L 616.3 122.3 L 660.1 172.0 L 704.0 172.0" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="704.0" cy="172.0" r="4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
 <text x="704.0" y="162.0" text-anchor="end" font-size="12" font-weight="600" fill="#0b0b0b">0</text>
 <text x="46" y="192" font-size="10" fill="#898781">Jul 24</text>
-<text x="704" y="192" text-anchor="end" font-size="10" fill="#898781">Aug 7</text>
+<text x="704" y="192" text-anchor="end" font-size="10" fill="#898781">Aug 8</text>
 </svg>
