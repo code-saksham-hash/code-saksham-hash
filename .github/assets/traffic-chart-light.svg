@@ -1,14 +1,14 @@
-<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily unique visitors over the last 20 days">
+<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily unique visitors over the last 21 days">
 <style>text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }</style>
 <rect x="0" y="0" width="720" height="200" rx="10" fill="#fcfcfb"/>
 <text x="46" y="18" font-size="11" fill="#52514e">Unique visitors per day</text>
 <line x1="46" y1="53.7" x2="704" y2="53.7" stroke="#e1e0d9" stroke-width="1"/>
 <text x="38" y="57.7" text-anchor="end" font-size="10" fill="#898781">50</text>
 <line x1="46" y1="172.0" x2="704" y2="172.0" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M 46.0 172.0 L 80.6 172.0 L 115.3 172.0 L 149.9 167.3 L 184.5 167.3 L 219.2 169.6 L 253.8 169.6 L 288.4 172.0 L 323.1 172.0 L 357.7 172.0 L 392.3 172.0 L 426.9 164.9 L 461.6 122.3 L 496.2 122.3 L 530.8 157.8 L 565.5 155.4 L 600.1 167.3 L 634.7 157.8 L 669.4 153.1 L 704.0 153.1 L 704.0 172.0 L 46.0 172.0 Z" fill="#2a78d6" fill-opacity="0.1" stroke="none"/>
-<path d="M 46.0 172.0 L 80.6 172.0 L 115.3 172.0 L 149.9 167.3 L 184.5 167.3 L 219.2 169.6 L 253.8 169.6 L 288.4 172.0 L 323.1 172.0 L 357.7 172.0 L 392.3 172.0 L 426.9 164.9 L 461.6 122.3 L 496.2 122.3 L 530.8 157.8 L 565.5 155.4 L 600.1 167.3 L 634.7 157.8 L 669.4 153.1 L 704.0 153.1" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="704.0" cy="153.1" r="4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
-<text x="704.0" y="143.1" text-anchor="end" font-size="12" font-weight="600" fill="#0b0b0b">8</text>
+<path d="M 46.0 172.0 L 78.9 172.0 L 111.8 172.0 L 144.7 167.3 L 177.6 167.3 L 210.5 169.6 L 243.4 169.6 L 276.3 172.0 L 309.2 172.0 L 342.1 172.0 L 375.0 172.0 L 407.9 164.9 L 440.8 122.3 L 473.7 122.3 L 506.6 157.8 L 539.5 155.4 L 572.4 167.3 L 605.3 157.8 L 638.2 153.1 L 671.1 153.1 L 704.0 155.4 L 704.0 172.0 L 46.0 172.0 Z" fill="#2a78d6" fill-opacity="0.1" stroke="none"/>
+<path d="M 46.0 172.0 L 78.9 172.0 L 111.8 172.0 L 144.7 167.3 L 177.6 167.3 L 210.5 169.6 L 243.4 169.6 L 276.3 172.0 L 309.2 172.0 L 342.1 172.0 L 375.0 172.0 L 407.9 164.9 L 440.8 122.3 L 473.7 122.3 L 506.6 157.8 L 539.5 155.4 L 572.4 167.3 L 605.3 157.8 L 638.2 153.1 L 671.1 153.1 L 704.0 155.4" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="704.0" cy="155.4" r="4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="704.0" y="145.4" text-anchor="end" font-size="12" font-weight="600" fill="#0b0b0b">7</text>
 <text x="46" y="192" font-size="10" fill="#898781">Jul 24</text>
-<text x="704" y="192" text-anchor="end" font-size="10" fill="#898781">Aug 12</text>
+<text x="704" y="192" text-anchor="end" font-size="10" fill="#898781">Aug 13</text>
 </svg>
