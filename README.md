@@ -55,7 +55,7 @@
 
 
 <p align="center">Daily driver: <b>Arch Linux</b> not the flex, just tired of fighting an OS that fights back.<br>
-Fuel of choice: <i>Dopio</i>on workdays, <i>Cortado</i>  when the week isn't trying to kill me.</p>
+Fuel of choice: <i>Dopio</i> on workdays, <i>Cortado</i>  when the week isn't trying to kill me.</p>
 
 <p align="center"><i>This account holds <b>personal & experimental projects only</b> freelance and client work lives elsewhere.</i><br>
 Portfolio → <a href="https://sakshambanjade.com"><b>sakshambanjade.com</b></a></p>
