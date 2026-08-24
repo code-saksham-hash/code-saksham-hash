@@ -1,14 +1,14 @@
-<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily unique visitors over the last 29 days">
+<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily unique visitors over the last 30 days">
 <style>text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }</style>
 <rect x="0" y="0" width="720" height="200" rx="10" fill="#1a1a19"/>
 <text x="46" y="18" font-size="11" fill="#c3c2b7">Unique visitors per day</text>
 <line x1="46" y1="53.7" x2="704" y2="53.7" stroke="#2c2c2a" stroke-width="1"/>
 <text x="38" y="57.7" text-anchor="end" font-size="10" fill="#898781">50</text>
 <line x1="46" y1="172.0" x2="704" y2="172.0" stroke="#383835" stroke-width="1"/>
-<path d="M 46.0 172.0 L 69.5 172.0 L 93.0 172.0 L 116.5 167.3 L 140.0 167.3 L 163.5 169.6 L 187.0 169.6 L 210.5 172.0 L 234.0 172.0 L 257.5 172.0 L 281.0 172.0 L 304.5 164.9 L 328.0 122.3 L 351.5 122.3 L 375.0 157.8 L 398.5 155.4 L 422.0 167.3 L 445.5 157.8 L 469.0 153.1 L 492.5 153.1 L 516.0 155.4 L 539.5 146.0 L 563.0 169.6 L 586.5 167.3 L 610.0 172.0 L 633.5 160.2 L 657.0 162.5 L 680.5 162.5 L 704.0 164.9 L 704.0 172.0 L 46.0 172.0 Z" fill="#3987e5" fill-opacity="0.1" stroke="none"/>
-<path d="M 46.0 172.0 L 69.5 172.0 L 93.0 172.0 L 116.5 167.3 L 140.0 167.3 L 163.5 169.6 L 187.0 169.6 L 210.5 172.0 L 234.0 172.0 L 257.5 172.0 L 281.0 172.0 L 304.5 164.9 L 328.0 122.3 L 351.5 122.3 L 375.0 157.8 L 398.5 155.4 L 422.0 167.3 L 445.5 157.8 L 469.0 153.1 L 492.5 153.1 L 516.0 155.4 L 539.5 146.0 L 563.0 169.6 L 586.5 167.3 L 610.0 172.0 L 633.5 160.2 L 657.0 162.5 L 680.5 162.5 L 704.0 164.9" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="704.0" cy="164.9" r="4" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="704.0" y="154.9" text-anchor="end" font-size="12" font-weight="600" fill="#ffffff">3</text>
+<path d="M 46.0 172.0 L 68.7 172.0 L 91.4 172.0 L 114.1 167.3 L 136.8 167.3 L 159.4 169.6 L 182.1 169.6 L 204.8 172.0 L 227.5 172.0 L 250.2 172.0 L 272.9 172.0 L 295.6 164.9 L 318.3 122.3 L 341.0 122.3 L 363.7 157.8 L 386.3 155.4 L 409.0 167.3 L 431.7 157.8 L 454.4 153.1 L 477.1 153.1 L 499.8 155.4 L 522.5 146.0 L 545.2 169.6 L 567.9 167.3 L 590.6 172.0 L 613.2 160.2 L 635.9 162.5 L 658.6 162.5 L 681.3 164.9 L 704.0 150.7 L 704.0 172.0 L 46.0 172.0 Z" fill="#3987e5" fill-opacity="0.1" stroke="none"/>
+<path d="M 46.0 172.0 L 68.7 172.0 L 91.4 172.0 L 114.1 167.3 L 136.8 167.3 L 159.4 169.6 L 182.1 169.6 L 204.8 172.0 L 227.5 172.0 L 250.2 172.0 L 272.9 172.0 L 295.6 164.9 L 318.3 122.3 L 341.0 122.3 L 363.7 157.8 L 386.3 155.4 L 409.0 167.3 L 431.7 157.8 L 454.4 153.1 L 477.1 153.1 L 499.8 155.4 L 522.5 146.0 L 545.2 169.6 L 567.9 167.3 L 590.6 172.0 L 613.2 160.2 L 635.9 162.5 L 658.6 162.5 L 681.3 164.9 L 704.0 150.7" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="704.0" cy="150.7" r="4" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
+<text x="704.0" y="140.7" text-anchor="end" font-size="12" font-weight="600" fill="#ffffff">9</text>
 <text x="46" y="192" font-size="10" fill="#898781">Jul 24</text>
-<text x="704" y="192" text-anchor="end" font-size="10" fill="#898781">Aug 21</text>
+<text x="704" y="192" text-anchor="end" font-size="10" fill="#898781">Aug 22</text>
 </svg>
