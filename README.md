@@ -1,4 +1,4 @@
-<h2 align="center">Human curiosity running on caffeine, code, and computational chaos.</h2>
+<h2 align="center">Self-taught developer building at the intersection of software, security, and AI</h2>
 
 <p align="center">I debug with coffee and defend with code. ☕</p>
 
