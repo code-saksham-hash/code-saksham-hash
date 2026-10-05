@@ -6,8 +6,8 @@
 <h3 align="center">Reach</h3>
 
 <p align="center">
-<b>242</b> unique visitors · <b>750</b> views · <b>766</b> unique cloners · <b>1,111</b> clones across 6 public repos<br>
-<sub>Tracking since 2026-07-24 · last updated 2026-10-04</sub>
+<b>250</b> unique visitors · <b>762</b> views · <b>772</b> unique cloners · <b>1,119</b> clones across 6 public repos<br>
+<sub>Tracking since 2026-07-24 · last updated 2026-10-05</sub>
 </p>
 
 <p align="center">
@@ -18,16 +18,17 @@
 </picture>
 </p>
 
-<p align="center"><b>Most visited:</b> <a href="https://github.com/code-saksham-hash/Resona"><b>Resona</b></a> (206 unique visitors, 619 views)</p>
+<p align="center"><b>Most visited:</b> <a href="https://github.com/code-saksham-hash/Resona"><b>Resona</b></a> (211 unique visitors, 628 views)</p>
 
 <div align="center">
 
 | Repo | Unique Visitors | Views | Unique Cloners | Clones |
 |---|---|---|---|---|
-| [Resona](https://github.com/code-saksham-hash/Resona) | 206 | 619 | 192 | 315 |
-| [IPOPilot](https://github.com/code-saksham-hash/IPOPilot) | 16 | 56 | 61 | 69 |
-| [code-saksham-hash](https://github.com/code-saksham-hash/code-saksham-hash) | 8 | 48 | 400 | 599 |
-| [timer_buddy](https://github.com/code-saksham-hash/timer_buddy) | 7 | 21 | 43 | 47 |
+| [Resona](https://github.com/code-saksham-hash/Resona) | 211 | 628 | 192 | 315 |
+| [IPOPilot](https://github.com/code-saksham-hash/IPOPilot) | 16 | 56 | 63 | 71 |
+| [code-saksham-hash](https://github.com/code-saksham-hash/code-saksham-hash) | 9 | 49 | 404 | 605 |
+| [timer_buddy](https://github.com/code-saksham-hash/timer_buddy) | 8 | 22 | 43 | 47 |
+| [recon_cli](https://github.com/code-saksham-hash/recon_cli) | 5 | 6 | 23 | 23 |
 
 </div>
 
